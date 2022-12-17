@@ -54,6 +54,8 @@ body{
 /* header */
 #header{
     background: url() top/cover no-repeat;
+    margin-top: 50px;
+
 }
 .carousel-inner h1{
     font-size: 60px;
